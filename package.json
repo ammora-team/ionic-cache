@@ -1,6 +1,6 @@
 {
   "name": "@ammora/ionic-cache",
-  "version": "4.0.0-1",
+  "version": "4.0.0-2",
   "description": "Ionic cache service - cache request, data, promises etc.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
