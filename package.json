@@ -1,5 +1,5 @@
 {
-  "name": "ionic-cache",
+  "name": "@ammora/ionic-cache",
   "version": "4.0.0",
   "description": "Ionic cache service - cache request, data, promises etc.",
   "main": "dist/index.js",
@@ -66,5 +66,8 @@
   },
   "browser": {
     "@angular/common/http": false
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
